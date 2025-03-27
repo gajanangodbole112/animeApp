@@ -1,3 +1,6 @@
+### Sample Apk
+https://github.com/gajanangodbole112/animeApp/releases/download/1.0.0/AnimeApp.apk
+
 ### ScreenShots
 
 ![image](https://github.com/user-attachments/assets/80798e4d-635b-4301-be46-7419d4a813c4)
